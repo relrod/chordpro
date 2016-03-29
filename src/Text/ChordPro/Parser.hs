@@ -8,7 +8,7 @@
 -- Portability : ghc
 --
 -- Parse <http://www.chordpro.org/chordpro/index.html ChordPro> files into
--- 'Chord's, 'Lyrics's, and 'Metadata'.
+-- 'Chord's, 'Lyrics's, and 'Directive's.
 ----------------------------------------------------------------------------
 
 module Text.ChordPro.Parser where
