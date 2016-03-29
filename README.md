@@ -1,4 +1,6 @@
-# `chordpro` - A library for dealing with ChordPro files
+# `chordpro`
+
+A library for dealing with ChordPro files
 
 Parse ChordPro files and manipulate the data found within them.
 
